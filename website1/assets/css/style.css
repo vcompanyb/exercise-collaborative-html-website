@@ -11,7 +11,7 @@ body{
 .navbar-bg-light-gray:hover{
     color: #828282
 }
-.navbar-font-size{
+.navbar-menu-font-size{
     font-size: 14px;
 }
 .navbar-height-size{
@@ -31,7 +31,7 @@ body{
     bottom: 120px;
 }
 .tagline-jumbotron {
-    background: url(./website1/assets/img/bg.jpg) no-repeat, center, center;
+    background: url(../img/bg.jpg) no-repeat, center, center;
     background-position-y: 100%;
     padding-top: 10%;
     padding-bottom: 10%;
